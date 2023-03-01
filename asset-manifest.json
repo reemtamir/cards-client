@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cards-client/static/css/main.be678888.css",
+    "main.js": "/cards-client/static/js/main.7612361f.js",
+    "static/js/787.7345901b.chunk.js": "/cards-client/static/js/787.7345901b.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/cards-client/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/cards-client/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/cards-client/index.html",
+    "main.be678888.css.map": "/cards-client/static/css/main.be678888.css.map",
+    "main.7612361f.js.map": "/cards-client/static/js/main.7612361f.js.map",
+    "787.7345901b.chunk.js.map": "/cards-client/static/js/787.7345901b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be678888.css",
+    "static/js/main.7612361f.js"
+  ]
+}
